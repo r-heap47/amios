@@ -1,0 +1,10 @@
+# В репозитории только код и описание: .py и .md, без отчётов и материалов
+*
+!*/
+!*.py
+!*.md
+!.gitignore
+report.md
+__pycache__/
+README.md
+lab_docx.py
